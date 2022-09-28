@@ -1,1 +1,1 @@
-# forno
+Este foi um desafio publicado em uma das aulas da faculdade de Análise e Desenvolvimento de Sistemas da URI em que pede-se um programa que primeiro medisse a temperatura e a umidade de um forno industrial para determinar se ele precisava de desumidificação antes do processo de cocção ou não e também para controlar o aquecedor e o exaustor. Os parâmetros todos foram estabelecidos no desafio, assim como o nome de algumas variáveis e algumas outras coisas, porém o programa propriamente dito foi criado do zero.
